@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bai1</string>
+    <string name="prompt_ward">Phường/Xã</string>
+    <string name="prompt_district">Quận/Huyện</string>
+    <string name="prompt_city">Tỉnh/Thành</string>
+</resources>
